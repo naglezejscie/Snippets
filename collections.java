@@ -1,3 +1,4 @@
+/*
 Schematy http://www.jroller.com/VelkaVrana/entry/java_1_6_collections_class
 Jeżeli element jest null to operacje sortowania wywalą NullPE
 
@@ -12,3 +13,4 @@ ArrayDeque     -            -     -  LinkedList bez unikalności i NULLi
 HashMap                           -  Nie gwarantuje kolejności
 TreeMap                           +  Kolejność naturalna dla typu
 LinkedHashMap                     +  Kolejność dodawania do mapy
+*/
